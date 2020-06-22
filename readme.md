@@ -1,15 +1,15 @@
 # ReadMe Generator
+## Abstract
 > This application will ask prompts to user on node, and then it will create a readme file.
 
 ## Table of contents
-* [General-info](#General-info)
-* [Sample Use](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+* [Abstract](#Abstract)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Sample](#Sample)
+* [Technologies](#Technologies)
+* [Contact](#Contact)
+* [Licence](#Licence)
 
 ## Installation
 
@@ -33,7 +33,7 @@ and follow the instructions.
 demonstration will shown at below
 
 
-## sample
+## Sample
 
 ![sample](Assets/demo.gif)
 
