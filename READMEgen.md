@@ -1,10 +1,10 @@
 
- # readmeGen  
+ # read me generator  
 
 
 
 ## Description
-This is readme Generator
+generating readme
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -23,13 +23,13 @@ npm install!
 
 
 ## Usage
-node index.js
+node index.js!
 
 <a name="license"></a>
 
 
 ## License
-MIT
+MIT!
 
 <a name="contributors"></a>
 
